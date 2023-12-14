@@ -1,5 +1,5 @@
 <h1 align="center">Hi 💙, I'm Nisha</h1>
-<h3 align="center">A computer Science Student that aspires to be a web developer 💻</h3>
+<h3 align="center">A computer Science Student that aspires to be a application developer 💻</h3>
 
 - 📫 How to reach me **farhanifozi@gmail.com**
 
